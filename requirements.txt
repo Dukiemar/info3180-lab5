@@ -2,7 +2,12 @@
 # Flask
 # ----------------------
 flask
-
+Flask-Login
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-OpenId
+psycopg2
+Flask-WTF
 
 # ----------------------
 # Testing
